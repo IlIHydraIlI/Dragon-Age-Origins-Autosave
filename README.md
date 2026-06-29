@@ -1,7 +1,7 @@
 # Dragon Age: Origins Autosave Proxy DLL
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Releases](https://img.shields.io/github/v/release/IlIHydraIlI/Dragon-Age-Origins-Autosave)](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases)
+[![GitHub Releases](https://img.shields.io/github/v/release/IlIHydraIlI/Dragon-Age-Origins-Autosave)](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases/latest)
 
 A lightweight **`dinput8.dll` proxy** for **Dragon Age: Origins** that automatically triggers a **Quick Save (F5)** every 120 seconds. It seamlessly forwards all DirectInput calls to the original Windows DLL, allowing your game to function normally while safeguarding your progress against unexpected crashes.
 
