@@ -28,7 +28,7 @@ Vanilla *Dragon Age: Origins* has infrequent autosaves, making it easy to lose h
 ## 🛠️ Installation & Uninstallation
 
 ### Install
-1. Download `dinput8.dll` from the [Releases](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases) page.
+1. Download `dinput8.dll` from the [Releases](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases/latest) page.
 2. Drop `dinput8.dll` directly into your game's executable directory (typically `...\Dragon Age Origins\bin_ship\`, right next to `daorigins.exe`).
 3. Launch the game as normal.
 
