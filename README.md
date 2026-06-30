@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Releases](https://img.shields.io/github/v/release/IlIHydraIlI/Dragon-Age-Origins-Autosave)](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/v/release/IlIHydraIlI/Dragon-Age-Origins-Autosave)](https://github.com/IlIHydraIlI/Dragon-Age-Origins-Autosave/releases/tag/v2.0-Compatability)
 
 A lightweight automation utility for **Dragon Age: Origins** that automatically triggers a **Quick Save (F5)** every 120 seconds. Available as a standalone **`dinput8.dll` proxy** for vanilla games, or as a **`.asi` plugin** for maximum compatibility with other mod setups (like Lyall's Component Fix).
 
